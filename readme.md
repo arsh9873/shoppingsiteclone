@@ -1,0 +1,1 @@
+A simple clone for the flipkart website built using html and vanilla Css
