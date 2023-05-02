@@ -1,0 +1,28 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color-white{
+    color:white;
+}
+.fonty{
+    text-decoration: none;
+}
+.align-center{
+    align-self: center;
+}
+.inner_img{
+    display: flex;
+    flex-direction: column;
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+}
+.flex-col:hover{
+    height: 200px;
+}
+.green_font{
+    color:green;
+}
